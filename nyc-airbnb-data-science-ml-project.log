@@ -1,0 +1,16 @@
+1.6s 1 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+4.5s 2 [NbConvertApp] Executing notebook with kernel: python3
+20.4s 3 [NbConvertApp] Writing 704114 bytes to __notebook__.ipynb
+21.2s 4 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+22.3s 5 [NbConvertApp] Support files will be in __results___files/
+[NbConvertApp] Making directory __results___files
+22.3s 6 [NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+22.3s 7 [NbConvertApp] Making directory __results___files
+[NbConvertApp] Making directory __results___files
+[NbConvertApp] Writing 389531 bytes to __results__.html
